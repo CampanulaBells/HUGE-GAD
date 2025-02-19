@@ -1,8 +1,3 @@
-# HUGE-GAD
-Code for AAAI 25 "A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection
-
-The code will be uploaded soon. 
-
 # HUGE: A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection
 
 Junjun Pan, Yixin Liu, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan
