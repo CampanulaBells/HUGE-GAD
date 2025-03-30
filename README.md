@@ -2,7 +2,7 @@
 
 Junjun Pan, Yixin Liu, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan
 ---
-This repo contains the official implementation of [AAAI25 PREM: A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection](https://arxiv.org/)
+This repo contains the official implementation of [AAAI25 HUGE: A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection](https://arxiv.org/pdf/2502.13308)
 
 <img src="./assets/Architecture.png"
      style="float: left; margin-right: 10px;" />
