@@ -42,7 +42,7 @@ python main.py --dataset AmazonFull --lr 5e-4 --kd_param 1.0 --epoch 10 --seed 0
 ### YelpChiFull
 
 ```
-python main.py --dataset YelpChiFull --lr 1e-5 --kd_param 3--epoch 5 --seed 0
+python main.py --dataset YelpChiFull --lr 1e-5 --kd_param 3 --epoch 5 --seed 0
 ```
 
 ---
